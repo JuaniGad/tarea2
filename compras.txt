@@ -1,3 +1,4 @@
 verduras
 frutas
 dentrifico
+pastas
